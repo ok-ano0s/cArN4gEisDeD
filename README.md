@@ -1,7 +1,5 @@
 ### Hi there, I'm Anoos - aka [cArN4gEisDeD] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcArN4gE_is_DeD&screen_name=cArN4gE_is_DeD)
-
 ## I'm a BuildBot/Kinda android dev!!
 
 - 🔭 Full-fledged weeb
